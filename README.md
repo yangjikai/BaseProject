@@ -4,7 +4,7 @@
 蓝湖：https://lanhuapp.com/web
 
 数据后台的地址/账号/密码
-数据后台（添加数据）：http://admin.jarppk.com/admin
+数据后台（添加数据）：http://www.jarppk.com/pages/programs
 账号：zhuifeng
 密码：zhuifeng123
 
